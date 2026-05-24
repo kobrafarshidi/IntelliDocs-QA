@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Env
+.env
+.venv/
+venv/
+
+# Database
+*.sqlite3
+
+# Django stuff
+media/
+staticfiles/
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# RAG / data (خیلی مهم برای تو)
+data/
+chroma_db/
