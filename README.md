@@ -9,14 +9,10 @@ for answer generation. The entire UI is provided by Django Admin.
 
 # Screenshots
 
-| Documents List | Add Document | Ask Question |
-|---|---|---|
-| ![](screenshots/list_documents.PNG) | ![](screenshots/add_document.PNG) | ![](screenshots/ask_question.PNG) |
 
-| Answer Question | Questions History | Add Question |
-|---|---|---|
-| ![](screenshots/answer_question.PNG) | ![](screenshots/list_questions.PNG) | ![](screenshots/add_question.PNG) |
-
+| Add Document | List Documents | Ask Question | Answer Display | Question History |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Add Document](screenshots/add_document.PNG) | ![List Documents](screenshots/list_documents.PNG) | ![Ask Question](screenshots/ask_question.PNG) | ![Answer Question](screenshots/answer_question.PNG) | ![List Questions](screenshots/list_questions.PNG) |
 ---
 
 
