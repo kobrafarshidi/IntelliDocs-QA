@@ -7,6 +7,15 @@ for answer generation. The entire UI is provided by Django Admin.
 
 ---
 
+# Screenshots
+
+
+| Add Document | List Documents | Ask Question | Answer Display | Question History |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Add Document](screenshots/add_document.PNG) | ![List Documents](screenshots/list_documents.PNG) | ![Ask Question](screenshots/ask_question.PNG) | ![Answer Question](screenshots/answer_question.PNG) | ![List Questions](screenshots/list_questions.PNG) |
+---
+
+
 ## Features
 
 - Upload, edit, and delete DOCX documents (full text auto-extracted and stored).
